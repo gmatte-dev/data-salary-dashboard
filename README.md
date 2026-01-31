@@ -118,7 +118,7 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos de:
 
 ## Autor
 
-Desenvolvido por **Gabriel Matte**
+Desenvolvido por **Guilherme Matte**
 
 [![GitHub](https://img.shields.io/badge/GitHub-gmatte--dev-181717?style=flat&logo=github)](https://github.com/gmatte-dev)
 
